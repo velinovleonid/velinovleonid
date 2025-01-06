@@ -10,7 +10,7 @@
   - [Silix Marketing Agency Website](https://github.com/velinovleonid/Silix-Marketing-Agency)
   <br />
 
-- <b>React (React framework, JavaScript)</b>
+- <b>JavaScript</b>
   - [Hover Button](https://github.com/velinovleonid/Hover-Button-1)
   - [Footer Design](https://github.com/velinovleonid/Footer)
   - [Sun-Moon Toggle](https://github.com/velinovleonid/Sun-Moon-Toogle)
