@@ -34,8 +34,8 @@
 [velinovleonid@example.com]<br />
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram2]
 
 [instagram]: https://www.instagram.com/velinovleonid/
-[instagram]: https://www.instagram.com/velinovdev/
+[instagram2]: https://www.instagram.com/velinovdev/
 [linkedin]: https://www.linkedin.com/in/velinovleonid/
