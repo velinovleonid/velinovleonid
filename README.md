@@ -36,9 +36,9 @@
 <h2>🤳 Connect with me:</h2>
 
 [velinovleonid@gmail.com]<br />
-[<img align="left" alt="LinkedIn" width="22px" style=" color: white;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" style=" color: white;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Instagram" width="22px" style=" color: white;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram2]
+[<img align="left" alt="LinkedIn" width="22px"  src="https://img.icons8.com/?size=100&id=8808&format=png&color=FFFFFF" />][linkedin]
+[<img align="left" alt="Instagram" width="22px"   src="https://img.icons8.com/?size=100&id=32309&format=png&color=FFFFFF" />][instagram]
+[<img align="left" alt="Instagram" width="22px"   src="https://img.icons8.com/?size=100&id=32309&format=png&color=FFFFFF" />][instagram2]
 
 [instagram]: https://www.instagram.com/velinovleonid/
 [instagram2]: https://www.instagram.com/velinovdev/
