@@ -8,6 +8,7 @@
 
 - <b>LATEST PROJECT!</b>
   - [OSU "Јовче Тесличков" Website](https://github.com/velinovleonid/OSU-Jovche-Teslickov)
+  - - [OSU "Јовче Тесличков" Website 2](https://osujtv.pktriot.net)
   <br />
 
 - <b>REAL PROJECTS FOR CLIENTS</b>
