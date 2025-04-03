@@ -2,6 +2,10 @@
 
 <h2>👨‍💻 Web Developer Projects:</h2>
 
+- <b>PROJECT!</b>
+  - [Personal Website](https://velinovleonid.netlify.app)
+  <br />
+
 - <b>LATEST PROJECT!</b>
   - [OSU "Јовче Тесличков" Website](https://github.com/velinovleonid/OSU-Jovche-Teslickov)
   <br />
