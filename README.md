@@ -21,7 +21,7 @@
 - <b>HTML, CSS, Bootstrap</b>
   - [Contact Form](https://github.com/velinovleonid/Contact-Form)
   - [Business Website - Landing Page (Class Project)](https://github.com/velinovleonid/Business-Landing-Page)
-  - [Personal Website (Class Project)](https://github.com/velinovleonid/Personal-Site)
+  - [Personal Website (Class Project)](https://velinovleonid.netlify.app)
 
 <h2>🎓 Certifications:</h2>
 
