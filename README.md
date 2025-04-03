@@ -29,6 +29,7 @@
 
 <h2>🎓 Certifications:</h2>
 
+- [Certificates and Diplomas](velinovleonid.netlify.app#portfolio)
 - [Vocational High School Diploma](#)
 - [E-Commerce Technician Certification](#)
 - [Digital Marketing Specialist Certification](#)
