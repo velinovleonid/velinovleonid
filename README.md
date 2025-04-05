@@ -13,6 +13,7 @@
 
 - <b>REAL PROJECTS FOR CLIENTS</b>
   - [Silix Marketing Agency Website](https://github.com/velinovleonid/Silix-Marketing-Agency)
+  -  - [Stellaris Marketing Agency Website](https://stellarisagency.netlify.app/)
   <br />
 
 - <b>JavaScript</b>
