@@ -1,4 +1,4 @@
-<h1>Hi, I'm Leonid Velinov! <br/><a href="https://github.com/velinovleonid">A Web Developer</a></h1>
+<h1>Hi, I'm Leonid Velinov (Albyxson)! <br/><a href="https://github.com/velinovleonid">A Web Developer</a></h1>
 
 <h2>👨‍💻 Web Developer Projects:</h2>
 
